@@ -34,5 +34,5 @@ def sample_recommendation(model,data,user_ids):
  		print("   Recommended:")
 
  		for x in top_items[:3]:
- 			print("    %s", %x )
+ 			print("    %s" %x )
 
